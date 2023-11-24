@@ -30,16 +30,15 @@ I believe in a collaborative and communicative approach to testing. Quality is a
   - Title and brief description of an article related to testing.
 
 ## Contact
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
-- Twitter: [@YourTwitterHandle](link-to-twitter)
+- Email: ltb.przemyslaw.kucinski@gmail.com
+- LinkedIn: www.linkedin.com/in/p-kucinski
 
 ## Statistics
 - Total Contributions: [Number]
 - Repositories: [Number]
 
 ## Fun Facts
-- I'm also a [Hobby] enthusiast!
+- I'm also a car, car mechanic enthusiast!
 - I once found a critical bug that made it into production... and lived to tell the tale!
 
 Thanks for stopping by! Let's connect and talk testing! 😊
