@@ -8,6 +8,7 @@ I am a passionate software tester with a keen eye for detail and a commitment to
 - API Testing
 - Performance Testing
 - Test Planning and Execution
+- Basics of Automatic Testing 
 
 ## Testing Philosophy
 I believe in a collaborative and communicative approach to testing. Quality is a team effort, and I work closely with developers and stakeholders to ensure a robust testing process.
@@ -25,9 +26,6 @@ I believe in a collaborative and communicative approach to testing. Quality is a
 - [Project 2 Title](link-to-repo)
   - Brief description of the project and your role in testing.
 
-## Blog/Articles
-- [Link to your blog](your-blog-url)
-  - Title and brief description of an article related to testing.
 
 ## Contact
 - Email: ltb.przemyslaw.kucinski@gmail.com
