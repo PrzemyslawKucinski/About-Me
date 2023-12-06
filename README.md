@@ -10,6 +10,7 @@ Welcome to my GitHub portfolio! I am a dedicated Software Tester with experience
   - Proficient in functional manual testing, including exploratory, regression, integration, retests, and end-to-end tests.
   - Conducted non-functional testing, particularly accessibility tests.
   - Specialized in testing international e-commerce, education platforms, ticket booking systems, and identity verification platforms.
+  - Recently, I have been developing towards mobile testing
   - Familiarity with API testing using Postman.
 
 - **Career Goals:**
@@ -43,6 +44,15 @@ Welcome to my GitHub portfolio! I am a dedicated Software Tester with experience
 
 ### Certification
 - Currently preparing for the ISTQB FL exam, planned to be taken at the begining of 2024.
+- [Warsztaty z Testowania](https://verified.sertifier.com/en/verify/89803810558552/)
+- [Tester Oprogramowania SDA](https://app.diplomasafe.com/pl-PL/diploma/d54f80e418a83faca278fe712ef109fea6ea4c030)
+
+
+### Technical Books Read
+- "Certyfikowany tester ISTQB. Poziom podstawowy" Autorzy: Adam Roman, Lucjan Stapp
+- "Cyberbezpieczeństwo dla bystrzaków. Wydanie II" Autor : Joseph Steinberg
+- "Podstawy Sieci E-book" Autor: Adam Gola
+
 
 
 ## Fun Facts
