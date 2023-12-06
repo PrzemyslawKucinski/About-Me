@@ -49,8 +49,8 @@ Welcome to my GitHub portfolio! I am a dedicated Software Tester with experience
 
 
 ### Technical Books Read
-- "Certyfikowany tester ISTQB. Poziom podstawowy" Autorzy: Adam Roman, Lucjan Stapp
-- "Cyberbezpieczeństwo dla bystrzaków. Wydanie II" Autor : Joseph Steinberg
+- ["Certyfikowany tester ISTQB. Poziom podstawowy" Autorzy: Adam Roman, Lucjan Stapp](https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispv.htm#format/d)
+- ["Cyberbezpieczeństwo dla bystrzaków. Wydanie II" Autor : Joseph Steinberg](https://helion.pl/ksiazki/cyberbezpieczenstwo-dla-bystrzakow-wydanie-ii-joseph-steinberg,cybeb2.htm#format/d)
 - "Podstawy Sieci E-book" Autor: Adam Gola
 
 
