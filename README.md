@@ -1,6 +1,4 @@
 # Hi there! 👋 I'm Przemysław Kuciński
-
-# [Your Name] - Portfolio
 ## Software Tester
 
 ### About Me
