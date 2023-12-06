@@ -42,10 +42,11 @@ Welcome to my GitHub portfolio! I am a dedicated Software Tester with experience
 - Understanding the software development process.
 - Providing recommendations to improve the accessibility of websites.
 
-### Certification
+### Certification & Courses
 - Currently preparing for the ISTQB FL exam, planned to be taken at the begining of 2024.
 - [Warsztaty z Testowania](https://verified.sertifier.com/en/verify/89803810558552/)
 - [Tester Oprogramowania SDA](https://app.diplomasafe.com/pl-PL/diploma/d54f80e418a83faca278fe712ef109fea6ea4c030)
+  
 
 
 ### Technical Books Read
