@@ -1,39 +1,55 @@
 # Hi there! 👋 I'm Przemysław Kuciński
 
-## About Me
-I am a passionate software tester with a keen eye for detail and a commitment to delivering high-quality software.
+# [Your Name] - Portfolio
+## Software Tester
 
-## Skills
-- Manual Testing
-- API Testing
-- Performance Testing
-- Test Planning and Execution
-- Basics of Automatic Testing 
+### About Me
+Welcome to my GitHub portfolio! I am a dedicated Software Tester with experience collaborating with cross-functional teams and testing various types of applications. Here's a brief overview of my skills and goals:
 
-## Testing Philosophy
-I believe in a collaborative and communicative approach to testing. Quality is a team effort, and I work closely with developers and stakeholders to ensure a robust testing process.
+- **Work Experience:**
+  - Collaborated with cross-functional teams, including product owners, project managers, and developers.
+  - Extensive experience in testing websites, desktop applications, and web/mobile applications on different operating systems.
+  - Proficient in functional manual testing, including exploratory, regression, smoke, integration, retests, and end-to-end tests.
+  - Conducted non-functional testing, particularly accessibility tests.
+  - Specialized in testing international e-commerce, education platforms, ticket booking systems, and identity verification platforms.
+  - Familiarity with API testing using Postman.
 
-## Education
-- Boot Camp in SDA for Manual Tester
+- **Career Goals:**
+  - Mastering manual software testing.
+  - Deepening knowledge and skills in accessibility testing (preparing for the Trusted Tester exam).
+  - Oriented for further development as an Automation Tester.
+  - Mastering API testing.
+  - Mastering HTML & CSS.
 
-## Certifications
-- https://app.diplomasafe.com/pl-PL/diploma/d54f80e418a83faca278fe712ef109fea6ea4c030
+### Tech Stack
+#### Languages:
+- SQL (basics)
+- HTML/CSS (basics) - Examples of simple projects using HTML and CSS: [Project#1](link), [Project#2](link), [Project#3](link)
 
-## Projects
-- [Project 1 Title](link-to-repo)
-  - Brief description of the project and your role in testing.
+#### Tools:
+- Chrome DevTools
+- Bug tracking: Jira, Trello, Mantis, Zoho
+- Test case management: TestRail, TestLink, qTest
+- Collaborative platform: Confluence, Miro, Figma
+- API platform: Postman
+- Version control system: Git
+- Code editor: Visual Studio Code, Brackets
+- Digital accessibility tools: WAVE, ANDI, NVDA, Colour Contrast Analyser, PAC, axe DevTools, Web Developer, HeadingsMap, taba11y, Landmark Navigation, Text Spacing Editor, Accessibility Insights for Web, Nu Html Checker
+- Others: Zephyr Squad, Xray, Katalon Recorder, Selenium IDE, Browserstack
+- Agile methodologies (Kanban, Scrum)
 
-- [Project 2 Title](link-to-repo)
-  - Brief description of the project and your role in testing.
+#### Testing Skills:
+- Verification of how applications and websites work through functional and exploratory tests.
+- Creation and execution of test scenarios, test suites, and test cases.
+- Preparation of detailed test reports and bug reports.
+- Understanding the software development process.
+- Website audit for compliance with WCAG 2.1 guidelines.
+- Providing recommendations to improve the accessibility of websites.
 
+### Certification
+- Currently preparing for the ISTQB FL exam, planned to be taken at the end of 2023.
 
-## Contact
-- Email: ltb.przemyslaw.kucinski@gmail.com
-- LinkedIn: www.linkedin.com/in/p-kucinski
-
-## Statistics
-- Total Contributions: [Number]
-- Repositories: [Number]
+Feel free to explore my projects and contributions below. If you have any questions or collaboration opportunities, please reach out!
 
 ## Fun Facts
 - I'm also a car, car mechanic enthusiast!
