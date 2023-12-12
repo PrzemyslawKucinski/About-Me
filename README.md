@@ -18,7 +18,7 @@ Welcome to my GitHub portfolio! I am a dedicated Software Tester with experience
   - Deepening knowledge and skills in accessibility testing (preparing for the Trusted Tester exam).
   - Oriented for further development as an Automation Tester (Playwright, Selenium).
   - Mastering API testing.
-  - Mastering HTML & CSS.
+    
 
 ### Tech Stack
 #### Languages:
