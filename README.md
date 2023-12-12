@@ -32,7 +32,7 @@ Welcome to my GitHub portfolio! I am a dedicated Software Tester with experience
 - Collaborative platform: Confluence, Figma
 - API platform: Postman
 - Version control system: Git
-- Code editor: Visual Studio Code
+- IDE: Visual Studio Code
 - Agile methodologies (Kanban, Scrum)
 
 #### Testing Skills:
