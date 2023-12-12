@@ -17,7 +17,7 @@ Welcome to my GitHub portfolio! I am a dedicated Software Tester with experience
   - Mastering manual software testing.
   - Deepening knowledge and skills in accessibility testing (preparing for the Trusted Tester exam).
   - Oriented for further development as an Automation Tester (Playwright, Selenium).
-  - Mastering API testing.
+  - Mastering REST API testing.
     
 
 ### Tech Stack
@@ -30,7 +30,7 @@ Welcome to my GitHub portfolio! I am a dedicated Software Tester with experience
 - Bug tracking: Jira, Trello
 - Test case management: TestRail, TestLink
 - Collaborative platform: Confluence, Figma
-- API platform: Postman
+- Postman for REST API
 - Version control system: Git
 - IDE: Visual Studio Code
 - Agile methodologies (Kanban, Scrum)
