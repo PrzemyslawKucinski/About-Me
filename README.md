@@ -10,13 +10,13 @@ Welcome to my GitHub portfolio! I am a dedicated Software Tester with experience
   - Proficient in functional manual testing, including exploratory, regression, integration, retests, and end-to-end tests.
   - Conducted non-functional testing, particularly accessibility tests.
   - Specialized in testing international e-commerce, education platforms, ticket booking systems, and identity verification platforms.
-  - Recently, I have been developing towards mobile testing
+  - Recently, I have been developing towards mobile testing and test automation.
   - Familiarity with API testing using Postman.
 
 - **Career Goals:**
   - Mastering manual software testing.
   - Deepening knowledge and skills in accessibility testing (preparing for the Trusted Tester exam).
-  - Oriented for further development as an Automation Tester (Playwright, Selenium).
+  - Oriented for further development as an Automation Tester (Playwright).
   - Mastering REST API testing.
     
 
