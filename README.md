@@ -46,6 +46,7 @@ Welcome to my GitHub portfolio! I am a dedicated Software Tester with experience
 - Currently preparing for the ISTQB FL exam, planned to be taken at the begining of 2024.
 - [Warsztaty z Testowania](https://verified.sertifier.com/en/verify/89803810558552/)
 - [Tester Oprogramowania SDA](https://app.diplomasafe.com/pl-PL/diploma/d54f80e418a83faca278fe712ef109fea6ea4c030)
+- [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/certificate/UC-1b17fa4a-c428-4016-b6aa-1c5a78a14772/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com)
   
 
 
